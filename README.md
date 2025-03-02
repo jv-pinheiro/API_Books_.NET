@@ -98,4 +98,4 @@ A API estará disponível em `https://localhost:5001`.
 
 ---
 
-📌 **Desenvolvido por [JV Pinheiro](https://github.com/jv-pinheiro)** 🚀
+📌 **Desenvolvido por [JV Pinheiro](https://www.linkedin.com/in/jv-pinheiro)** 🚀
